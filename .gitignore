@@ -1,0 +1,28 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter/Colab
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Kaggle
+kaggle.json
+*.csv
+*.zip
+
+# Colab-specific
+*.local
+*.cache
+/content/data/
+
+# Misc
+*.log
+*.DS_Store
